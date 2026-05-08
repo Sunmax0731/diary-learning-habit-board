@@ -1,7 +1,7 @@
 {
   "product": "diary-learning-habit-board",
   "domain": "WindowsApp",
-  "generatedAt": "2026-05-07T23:56:51.731Z",
+  "generatedAt": "stable-validation-run",
   "totals": {
     "passes": 2,
     "failures": 2,
