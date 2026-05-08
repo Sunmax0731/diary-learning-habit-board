@@ -1,0 +1,11 @@
+{
+  "product": "diary-learning-habit-board",
+  "title": "日記・学習・習慣ボード",
+  "domain": "WindowsApp",
+  "ideaNo": 9,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
